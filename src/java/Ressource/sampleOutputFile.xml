@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><madamira_output xmlns="urn:edu.columbia.ccls.madamira.configuration:0.1">
+    <out_doc id="ExampleDocument">
+        <out_seg id="SENT1">
+            <segment_info>
+                <preprocessed>السلطة الفلسطينية تستنكر استمرار سياسة الاغتيالات الاسرائيلية</preprocessed>
+            </segment_info>
+            <word_info>
+                <word id="0" word="السلطة">
+                    <svm_prediction>
+                        <morph_feature_set diac="السُّلْطَةِ"/>
+                    </svm_prediction>
+                    <analysis rank="0" score="0.8840385512557991">
+                        <morph_feature_set diac="السُّلْطَةُ"/>
+                    </analysis>
+                    <tokenized scheme="ATB">
+                        <tok id="0" form0="السلطة"/>
+                    </tokenized>
+                    <tokenized scheme="D3_BWPOS">
+                        <tok id="0" form0="Al+" form1="DET+"/>
+                        <tok id="1" form0="slTp" form1="NOUN+NSUFF_FEM_SG+CASE_DEF_NOM"/>
+                    </tokenized>
+                    <tokenized scheme="ATB4MT">
+                        <tok id="0" form0="السلطة" form1="السلطة" form2="سُلْطَة" form3="NOM" form4="DT+NN" form5="DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM"/>
+                    </tokenized>
+                    <tokenized scheme="MyD3">
+                        <tok id="0" form0="ال+"/>
+                        <tok id="1" form0="سلطة"/>
+                    </tokenized>
+                </word>
+                <word id="1" word="الفلسطينية">
+                    <svm_prediction>
+                        <morph_feature_set diac="الفِلَسْطِينِيَّةِ"/>
+                    </svm_prediction>
+                    <analysis rank="0" score="0.8840340517544789">
+                        <morph_feature_set diac="الفِلَسْطِينِيَّةُ"/>
+                    </analysis>
+                    <tokenized scheme="ATB">
+                        <tok id="0" form0="الفلسطينية"/>
+                    </tokenized>
+                    <tokenized scheme="D3_BWPOS">
+                        <tok id="0" form0="Al+" form1="DET+"/>
+                        <tok id="1" form0="flsTynyp" form1="ADJ+NSUFF_FEM_SG+CASE_DEF_NOM"/>
+                    </tokenized>
+                    <tokenized scheme="ATB4MT">
+                        <tok id="0" form0="الفلسطينية" form1="الفلسطينية" form2="فِلَسْطِينِيّ" form3="NOM" form4="DT+JJ" form5="DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM"/>
+                    </tokenized>
+                    <tokenized scheme="MyD3">
+                        <tok id="0" form0="ال+"/>
+                        <tok id="1" form0="فلسطينية"/>
+                    </tokenized>
+                </word>
+                <word id="2" word="تستنكر">
+                    <svm_prediction>
+                        <morph_feature_set diac="تَسْتَنْكِر"/>
+                    </svm_prediction>
+                    <analysis rank="0" score="0.8677356757714442">
+                        <morph_feature_set diac="تَسْتَنْكِر"/>
+                    </analysis>
+                    <tokenized scheme="ATB">
+                        <tok id="0" form0="تستنكر"/>
+                    </tokenized>
+                    <tokenized scheme="D3_BWPOS">
+                        <tok id="0" form0="tstnkr" form1="IV2MS+IV"/>
+                    </tokenized>
+                    <tokenized scheme="ATB4MT">
+                        <tok id="0" form0="تستنكر" form1="تستنكر" form2="ٱِسْتَنْكَر" form3="VRB" form4="VBP" form5="IV2MS+IV"/>
+                    </tokenized>
+                    <tokenized scheme="MyD3">
+                        <tok id="0" form0="تستنكر"/>
+                    </tokenized>
+                </word>
+                <word id="3" word="استمرار">
+                    <svm_prediction>
+                        <morph_feature_set diac="اِسْتِمْرارِ"/>
+                    </svm_prediction>
+                    <analysis rank="0" score="0.8866756788017508">
+                        <morph_feature_set diac="اِسْتِمْرارَ"/>
+                    </analysis>
+                    <tokenized scheme="ATB">
+                        <tok id="0" form0="استمرار"/>
+                    </tokenized>
+                    <tokenized scheme="D3_BWPOS">
+                        <tok id="0" form0="AstmrAr" form1="NOUN+CASE_DEF_ACC"/>
+                    </tokenized>
+                    <tokenized scheme="ATB4MT">
+                        <tok id="0" form0="استمرار" form1="استمرار" form2="ٱِسْتِمْرار" form3="NOM" form4="NN" form5="NOUN+CASE_DEF_ACC"/>
+                    </tokenized>
+                    <tokenized scheme="MyD3">
+                        <tok id="0" form0="استمرار"/>
+                    </tokenized>
+                </word>
+                <word id="4" word="سياسة">
+                    <svm_prediction>
+                        <morph_feature_set diac="سِياسَةِ"/>
+                    </svm_prediction>
+                    <analysis rank="0" score="0.8952524013582929">
+                        <morph_feature_set diac="سِياسَةِ"/>
+                    </analysis>
+                    <tokenized scheme="ATB">
+                        <tok id="0" form0="سياسة"/>
+                    </tokenized>
+                    <tokenized scheme="D3_BWPOS">
+                        <tok id="0" form0="syAsp" form1="NOUN+NSUFF_FEM_SG+CASE_DEF_GEN"/>
+                    </tokenized>
+                    <tokenized scheme="ATB4MT">
+                        <tok id="0" form0="سياسة" form1="سياسة" form2="سِياسَة" form3="NOM" form4="NN" form5="NOUN+NSUFF_FEM_SG+CASE_DEF_GEN"/>
+                    </tokenized>
+                    <tokenized scheme="MyD3">
+                        <tok id="0" form0="سياسة"/>
+                    </tokenized>
+                </word>
+                <word id="5" word="الاغتيالات">
+                    <svm_prediction>
+                        <morph_feature_set diac="الاِغْتِيالاتِ"/>
+                    </svm_prediction>
+                    <analysis rank="0" score="0.8947650584943242">
+                        <morph_feature_set diac="الاِغْتِيالاتِ"/>
+                    </analysis>
+                    <tokenized scheme="ATB">
+                        <tok id="0" form0="الاغتيالات"/>
+                    </tokenized>
+                    <tokenized scheme="D3_BWPOS">
+                        <tok id="0" form0="Al+" form1="DET+"/>
+                        <tok id="1" form0="AgtyAlAt" form1="NOUN+NSUFF_FEM_PL+CASE_DEF_GEN"/>
+                    </tokenized>
+                    <tokenized scheme="ATB4MT">
+                        <tok id="0" form0="الاغتيالات" form1="الاغتيالات" form2="ٱِغْتِيال" form3="NOM" form4="DT+NNS" form5="DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN"/>
+                    </tokenized>
+                    <tokenized scheme="MyD3">
+                        <tok id="0" form0="ال+"/>
+                        <tok id="1" form0="اغتيالات"/>
+                    </tokenized>
+                </word>
+                <word id="6" word="الاسرائيلية">
+                    <svm_prediction>
+                        <morph_feature_set diac="الإِسْرائِيلِيَّةِ"/>
+                    </svm_prediction>
+                    <analysis rank="0" score="0.8267406702887713">
+                        <morph_feature_set diac="الإِسْرائِيلِيَّةِ"/>
+                    </analysis>
+                    <tokenized scheme="ATB">
+                        <tok id="0" form0="الاسرائيلية"/>
+                    </tokenized>
+                    <tokenized scheme="D3_BWPOS">
+                        <tok id="0" form0="Al+" form1="DET+"/>
+                        <tok id="1" form0="AsrA}ylyp" form1="ADJ+NSUFF_FEM_SG+CASE_DEF_GEN"/>
+                    </tokenized>
+                    <tokenized scheme="ATB4MT">
+                        <tok id="0" form0="الإسرائيلية" form1="الاسرائيلية" form2="إِسْرائِيلِيّ" form3="NOM" form4="DT+JJ" form5="DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN"/>
+                    </tokenized>
+                    <tokenized scheme="MyD3">
+                        <tok id="0" form0="ال+"/>
+                        <tok id="1" form0="اسرائيلية"/>
+                    </tokenized>
+                </word>
+            </word_info>
+        </out_seg>
+    </out_doc>
+</madamira_output>
